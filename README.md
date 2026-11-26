@@ -343,5 +343,4 @@ O desenvolvimento do Foco considera práticas importantes para organização e m
 - **Versionamento:** utilização do Git e GitHub para controle das alterações.
 - **API REST:** comunicação entre as camadas da aplicação por meio de requisições HTTP.
 
----#   o r g a n i z a d o r _ e s t u d o s  
- 
+---
